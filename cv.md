@@ -41,7 +41,7 @@ Full Stack developer (MERN) ( 2021 - 2022 )
 HTML/CSS, JavaScript ( 2020 )
 
 **_Kyiv University of Tourism, Economics and Law_**<br>
-ccounting and Audit ( 2002 - 2005 )
+Accounting and Audit ( 2002 - 2005 )
 
 **_Kiev College of Hotel Management_**<br>
 Accounting ( 2020 - 2002 )
