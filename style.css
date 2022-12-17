@@ -95,11 +95,12 @@ address a:hover {
 
 .summary {
     padding-top: 25x;
+    padding-right: 40px;
 }
 
 .footer {
     height: 140px;
-    background-image: url("design-footer.jpg");
+    background-image: url("footer-pic.jpg");
     border-top: 1px solid rgb(245, 245, 245);
 }
 
